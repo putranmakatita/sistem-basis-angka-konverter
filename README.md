@@ -12,3 +12,6 @@ Program untuk mengkonversi masukan sistem basis angka ke sistem basis angka lain
 10. "Octal ke Biner"
 11. "Octal ke Decimal"
 12. "Octal ke Hexa"
+
+
+![image](https://github.com/user-attachments/assets/effda23f-568d-4e93-9913-cb911f40b629)
